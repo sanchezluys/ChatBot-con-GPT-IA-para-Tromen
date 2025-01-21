@@ -1,3 +1,10 @@
+# primer encendido de estufas, calefactores
+
+En los dos primeros encendidos, los calefactores pueden llegar a  generar  humo y olor a pintura, esto es normal  y se debe a que la pintura realiza su proceso de curado,  debes hacer un buen fuego inicial y ventilar el espacio en ese momento, esta condición y recomendación  está indicada en el manual del equipo.
+No se recomienda colocar ningún tipo de aceite, esencia o limpiar la superficie del calefactor mientras este caliente,  ya que esto puede dañar la pintura.
+
+# como encender el calefactor
+
 Para encender el calefactor hacer un bollo grande de papel aireado y ubicarlo en el fondo de la cámara de fuego. Apoyar sobre él maderitas finas del tipo cajón de fruta en forma piramidal.
 
 Con la palanca de entrada de aire abierta al máximo y la puerta entreabierta, encender el papel, que inmediatamente encenderá las maderas. No usar sustancias combustibles de ningún tipo. Cuando el fuego se aviva porque los conductos se han calentado se está logrando el efecto chimenea que produce el tiraje de los gases de combustión.
@@ -6,20 +13,16 @@ A partir de ese momento hay que ir agregando los leños de tamaño mediano, y se
 
 Es importante estar atento al fuego y seguir alimentándolo para mantener el conducto caliente, ya que si se enfría hay que comenzar todo de nuevo porque el fuego se ahoga. La palanca de entrada de aire se puede cerrar cuando se logra el buen fuego pero no totalmente porque se puede apagar.
 
-
-
-
 Un calefactor a leña Tromen tiene un conducto de gases de combustión que debe salir al exterior y llegar a los cuatro vientos.
 Puede salir por techo (incluso atravesando más de un nivel) y por pared. Los conductos son, en la mayoría de los modelos de 6” (15 cm de diámetro).
 En los modelos más grandes son de 8” (20 cm de diámetro). Vienen en tramos de 1m y pueden ser de acero inoxidable o enlozados negros.
-
 
 # Cuatro vientos
 
 Se entiende por cuatro vientos a la altura donde los gases de la combustión puedan salir libremente sin interferencias de ningún tipo, de ninguno de los cuatro puntos cardinales.
 Se considera por lo menos a 50 cm por encima del punto más alto del edificio considerando planos inclinados, parapetos, tanques de agua, etc. siempre que estén lo suficientemente cerca como para producir algún rebote de aire que pueda penetrar dentro del conducto.
 
-# Curado
+# Curado de los calefactores
 
 El curado de piezas enlozadas no reviste mucho procedimiento, en realidad el curado de metales es para los antiguos discos (*leer reseña)  o aquellos que no tienen el tratamiento de enlozado.
 La idea más que curado es como eliminar alguna impureza ajena al inicio de la cocción.
@@ -31,15 +34,29 @@ c) Se deja terminar de calentar unos 2 o 3 minutos su superficie hasta que veamo
 
 d) Al final de cada comida se deberá lavar y secar como cualquier olla.
 
-# Derivadores
+# curado de planchetas
+
+Como la plancha es de chapa de hierro se recomienda hacer un curado con aceite comestible. 
+
+Coloca la plancha a calentar sobre la hornalla de la cocina, y le agregas un poco de aceite y luego con ayuda de un servilleta lo esparcís en toda la superficie. Luego de esto lo dejas calentar por espacio de 1 o dos minutos y repetís la operación unas tres o cuatros veces, agregándole un poco más de aceite y cubriendo la superficie de la plancha con la ayuda de una servilleta, esto va hacer que se vaya formado una película. Luego la volteas y realizas el mismo proceso para curar la parte posterior de la plancheta.
+
+# Derivadores de calor
 
 De los derivadores de calor sale un pequeño porcentaje del calor generado por el equipo. Sirven para dar calor a un ambiente ubicado pared por medio o en el piso superior, aprovechando la propiedad ascendente del calor.
 
 Los tramos horizontales largos no dan resultado, ya que el aire se va enfriando en su recorrido. Los forzadores de calor no deben usarse en los conductos sino que puede hacerse en la parte alta del ambiente donde se acumula el calor, dejándolo pasar hacia el otro
 
+Los derivadores de calor generan entre un 10 a 15 % del calor total de equipo,  este calor va depender únicamente de la cantidad de leña (fuego) que se esté generando en el calefactor, una opción es usar algún forzado para extraer mayor cantidad de calor del equipo, hacia otros ambientes (esto implica mayor consumo de leña).  Si lo vas a utilizar debes retirar la tapa que se encuentra en la salida del derivador.
+
+Es importante conocer que *Tromen* no comercializa forzadores.
+
 # Desvios a 90 grados
 
 No se pueden realizar desvíos a 90° ya que se depositan residuos de combustión y no favorece al tiraje y posterior mantenimiento y limpieza de conductos, los desvíos deben realizarse a 45°.
+
+# equipos de doble aplicacion
+
+todos los modelos de calefactores de la Linea PREMIER (Lisboa, Madrid, Paris, Roma, Obu 890 /1120 en todas sus versiones) son equipos de doble aplicación, quiere decir que se pueden instalar en un nicho u hogar tradicional existente o se pueden instalar de pie sobre una base que se comercializa por separado.
 
 # Diferencia entre modelos, tango y horno
 
@@ -56,6 +73,14 @@ Los modelos Tango y TR Horno son líneas diferentes de producción en diseño es
 
 dentro de la terminología mencionada  la diferencia entre estufa, calefactor y salamandra de combustión a leña, no hay diferencia son conceptos similares, en el mercado  hay una amplia variedad de marcas y cada una utiliza como variables para acercar el producto al consumidor final con su concepto , en nuestro caso todos nuestros productos cuentan con doble combustión, es el concepto que nos diferencia de los antiguos hogares de boca abierta, salamandras de hierro fundido o calefactores a leña de combustión simple.
 Para que quede claro estufa, salamandra o calefactor a leña siempre que sean de doble combustión y cámara de fuego cerrada es lo que marca la diferencia con respecto al antiguo concepto
+
+# doble combustion
+
+Todas las Salamandras Tromen poseen doble combustión
+
+# Duomo oxidado
+
+Siempre recomendamos mantener los equipos bajo techo, o cubiertos con una funda, fuera del alcance de la intemperie,  ya que el clima y la humedad pueden acelerar la aparición de óxido en la chapa. Particularmente estos modelos de fogoneros, tienen una pintura superficial de fábrica, con el tiempo adquiere una rusticidad tipo óxido que es normal y buscada.
 
 # Encamisado
 
@@ -78,6 +103,10 @@ La entrada de humo al ambiente cuando se abre la puerta puede deberse a varios f
 - Conductos tapados por falta de limpieza o por otro motivo accidental. -Instalación que no llega a los cuatro vientos y se produce un retroceso de gases de combustión a la chimenea. 
 
 - Ubicación de los codos en una instalación por pared a una altura inapropiada. Habiendo verificado estos puntos, recién puede pensarse en un error en el equipo, no antes. En los equipos grandes (PATAGONIA en adelante), que tienen templador móvil, puede estar trabado este mecanismo que ayuda a la salida de gases, cuando se abre la puerta, en estos casos de puertas de grandes dimensiones.
+
+# dejar equipos a la interperie, aire libre
+
+Los equipos que fabricamos, recomendamos no dejarlos a la intemperie, si no bajo techo o por lo menos protegerlos con una funda, ya que los factores del clima y la humedad pueden ocasionar la aparición de óxido en la chapa y causar el mal funcionamiento de nuestros productos.
 
 # Limpieza
 
@@ -118,6 +147,8 @@ Conviene tener distintos tipos de leña. Las más livianas como el eucalipto sir
 
 Los proveedores de leña le ofrecerán distintas tipos según sea el lugar geográfico donde se encuentre. Las leñas más resinosas manchan vidrio y conductos. Pueden usarse pero el mantenimiento de los mismos deberá ser más frecuente. Pueden llegar a obstruir los conductos en un alto porcentaje, produciendo el mal tiraje y la salida de humo hacia el interior del ambiente, porque no llega a salir por la chimenea.
 
+Siempre recomendamos una mezcla entre espinillo, eucalipto y madera fina, siempre seca, o leña de árboles frutales que contenga bajo nivel de resina.
+
 El rendimiento de la leña es relativo, depende de varios factores propios de la misma, del usuario y del modelo de equipo.
 
 
@@ -127,9 +158,146 @@ Los equipos Tromen han sido diseñados para ser utilizados a leña. Cualquier ad
 
 Si Ud. desea hacer dicha adaptación le recomendamos consulte con un gasista matriculado que tenga en cuenta las medidas de seguridad requeridas para los equipos a gas por la autoridad competente
 
+# servicio tecnico a domicilio
 
+Solo durante el periodo de garantía tiene acceso a un servicio técnico a domicilio.
 
 # Usar pellets en los equipos a leña
 
 No se puede utilizar pallets en nuestros equipos a leña, para ello se usan estufas o calderas especiales para pellet, nuestros equipos fueron diseñados para combustión a leña.
 
+# estufas a pellet
+
+Los equipos de calefacción para interior que fabricamos son para ser utilizados solo con leña. Actualmente fabricamos el modelo Brooklyn a gas,  el uso de otro combustible puede afectar el uso y desempeño ideal del calefactor y anula la garantía y responsabilidad de *Tromen*. No fabricamos equipos duales, o kits de adaptación para convertir estufas de leña a gas o viceversa. Queda a riesgo y criterio del usuario.
+
+Actualmente tromen no fabrica estufas a pellet, ni vende pellets.
+
+# Cajon cenicero
+
+- como pasan las cenizas al cajon cenicero?
+
+en estos equipos de la línea Austral Y Pehuen el cajón cenicero no es automático, es de forma manual, se retiran las cenizas con una pala y se depositan es ese cajón, funciona para ahorrarle al usuario la ida al tacho de basura cada vez que necesite limpiar las cenizas. La imagen del manual indica que ese accesorio se aplica solo para los modelos P20000 doble puerta, P15 y P22 así como lo indicamos también en la ficha técnica de los equipos en nuestra Web https://www.tromen.com/
+
+# Cambio de gas envasado a gas natural
+
+Si tienes una parrilla que usabas a gas envasado y ahora la quieres utilizar a gas natural, debes realizar la conversión a ese tipo de gas.
+El mismo se logra cambiando los picos inyectores con el N° 102 que posee actualmente e incorporar los grabados con el N° 142 que vienen previstos para el cambio y abrir el tornillo bypass de la válvula.
+
+*Todo esto está explicado en el manual del usuario.* 📌
+
+# linea austral
+
+Los equipos de la nueva línea Austral, A7 A9 A15 Y A15 con horno, cuentan con piso enlozado y no requieren ladrillos en el piso o laterales de la caja de fuego, solo lleva los ladrillos de la parte superior que se colocan en el templador. Lo mismo para el modelo Eco 7000 que no lleva ladrillos en piso y laterales.
+
+# manija cruz de duomo
+
+Se realizó una modificación al diseño de la estaca o cruz del Duomo, ya no lleva la manija, en su lugar posee  unos agarres  propios,  este cambio es con la finalidad de poder girar la cruz,  ya que el caño que pasa por el medio calzaría en el posicionador, es decir, podrás voltear la cruz parte superior en la parte inferior y viceversa. El manual del equipo, por error muestra aún el modelo de cruz anterior, el cual ya no se fabrica.
+
+# Capacidad caloria de los hornos a gas, kcal
+
+Los hornos a gas son multigas, pueden ser usados con gas de red o gas de garrafa cambiando el pico correspondiente y tienen una capacidad de 5200 kcal.
+
+# chapa protectora
+
+La placa protectora que mencionamos en el manual, es una chapa de hierro que se recomienda colocar para que actúe de aislante, no se comercializa por *Tromen* y no cuenta con una especificación técnica exacta, puedes adquirirla en la zingueria de tu preferencia solicitándola a medida según el área que quieras cubrir.
+
+# Color de estufas
+
+Todos los calefactores que fabricamos y comercializamos son de color *Gris Tromen*, no existen más versiones con color diferente al mencionado. En algunas publicaciones de puntos de venta podrá observar otra tonalidad, que se origina por la posición de la luz en la que fueron tomadas esas imágenes.
+
+# Comercios adheridos a la promocion, fire week, fireweek, promo, promocion
+
+ingresa al siguiente  [link] (https://www.tromen.com/20offcalefactores) donde podrás ver los comercios adheridos a la promoción y consultar en el más cercano a tu zona.
+Te invitamos a dar click al siguiente enlace de nuestra web, ahí podrás observar los comercios adheridos a la promoción donde podrás consultar y adquirir los productos de nuestra marca. [Tromen/Fireweek](www.tromen.com/fireweek)
+
+# condiciones de instalacion de calefactores
+
+- Un calefactor a leña *Tromen* tiene un conducto de gases de combustión que debe salir al exterior y llegar a los cuatro vientos.
+- Puede salir por techo (incluso atravesando más de un nivel) y por pared. Los conductos son, en la mayoría de los modelos de 6” (15 cm de diámetro).
+- En los modelos más grandes son de 8” (20 cm de diámetro). Vienen en tramos de 1m y pueden ser de acero inoxidable o enlozados negros.
+
+# consumo angus chica
+
+Este modelo tiene un consumo de 3,72 Kw = 3200 Kcal/ hs. No recomendamos el uso de una garrafa de 3 kg, debe ser una de 10kg preferiblemente YPF con su respectivo regulador aprobado entre envase y equipo.
+
+# garrafa recomendada para equipos a gas
+
+La garrafa recomendable es YPF de 10kg, con un regulador aprobado BROGAS Y PAZ o AMATO.
+
+Si decides utilizar una garrafa de 3 kg deberás adaptar el regulador y asegurarte que mantenga una presión de 280 mm de columna de agua.
+
+# homologacion de hornos y parrillas a gas, homologacion uso domestico, permiso uso domestico
+
+Te comentamos que nuestra empresa está autorizada para fabricar parrillas y hornos a gas de uso comercial, bajo la matrícula *N° 2427 otorgada por el I.G.A.* (Instituto de Gas Argentino).
+
+En el manual del usuario, está la memoria descriptiva con las partes relevantes y etiqueta con los datos de consumo. 
+
+No están homologados para uso domiciliario ya que lo rigen otras normas.
+
+# instalar horno en casa, en su cocina
+
+Este tipo de decisiones en mejor consultarlas con un profesional.
+Desde Tromen podemos recomendar instalarla en un exterior techado
+
+# limpieza de parrillas
+
+Sabemos que luego de disfrutar de una comida a la parrilla hay que proceder dejarla limpia para la próxima, lo que hay que evitar es que se cristalice la grasa en los módulos  de parrilla esto sucede cuando continúan en cocción más tiempo que el debido o entre comida y comida  no se han limpiado a fondo los módulos y se queman residuos, con el accesorio grasero si se solidifica la grasa en su interior con una espátula se levanta del interior la mayor cantidad posible y luego con agua caliente y detergente se termina de limpiar.
+Aclaramos que esta limpieza es solo para las parrillas con modulo en "V"
+Por lo general, lo mejor es limpiar la parrilla después de usarla, cuando todavía está un poco tibia, pero ¡no caliente! Así, podrá aflojar los depósitos de grasa sin mucho esfuerzo y sacarlos fácilmente.
+Si esto no es o fue posible, retirar y colocar los módulos de parrilla sumergidos en agua hirviendo y detergente desengrasante para ablandar la grasa adherida y con un cepillo de plástico semi - duro del que muchas veces  vemos que utilizan los  parrilleros y la ayuda de algún accesorio  flexible plano o en” L “que se pueda introducir en el espacio entre las “V”.
+(Consultar en casa de artículos de limpieza) que tipo de producto se utiliza para estos casos.
+Luego enjuagar y dejar secar colocando los tres módulos en forma vertical para que escurran y queden secos y volver armarlos.
+
+# limpieza de vidrios de las estufas
+
+Te dejamos el siguiente link con un pequeño tutorial sobre como limpiar los vidrios de las estufas.
+
+[youtube](G-4-MygMIRQ)
+
+# parrillas electricas sin regulador de temperatura
+
+- Los modelos de parrilla *E360 Y E480* no trae regulador de temperatura (lo indicamos en nuestra web), ya que están configurados para cortes finos con cocciones de corto plazo entre 15 y 20 min.  En su momento fueron diseñados de esa manera, cualquier modificación que pueda alterar el diseño original de las parrillas, anula automáticamente la garantía y responsabilidad de *Tromen* sobre el producto.
+
+# pintura para pintar la estufa o salamandra, zona rayada en la estufa
+
+Puedes repintar la zona afectada con pintura en aerosol color *Gris Tromen*, la cual puedes adquirir en nuestros puntos de venta online en Mercado Libre en el siguiente link https://listado.mercadolibre.com.ar/aerosol-tromen#D[A:%20aerosol%20tromen]
+
+# posicion salida de humo de calefactores a leña
+
+Todos los modelos que fabricamos cuentan con la salida de humos en la parte superior del equipo, por un tema de funcionalidad no pueden llevar la salida en la parte trasera como los equipos de tiro balanceado.
+
+# quitarle las patas a los hornos 580 y 780
+
+En estos modelos de hornos, no es posible eliminar las patas, ya que en el espacio generado por la altura de estas se encuentra la entrada de aire al equipo. Al hacer lo que  planteas eliminaría dicha entrada y por consiguiente tendrá problemas con el funcionamiento del horno.
+
+# rejillas decorativas
+
+*Tromen* no comercializa las rejillas, en su mayoría son mandadas a fabricar por el usuario por su cuenta para darle un mejor acabado a la instalación, es un detalle decorativo, no afecta en nada el funcionamiento del calefactor.
+
+# seguimiento de reclamo
+
+el tiempo de respuesta del área de Post Venta es de *48 a 72 hrs* aproximadamente. Si ya envió la información solicitada a servicio técnico, le pedimos este atento a su bandeja de correo, a la brevedad posible le estarán contactando por esa vía. 
+
+# tango 780
+
+Las medidas externas del Tango 780 son ancho 69 cms de alto, 78.8 de ancho  y profundidad 51 cm.
+
+Es recomendable poner una Pared de ladrillo donde pensas instalarlo,  que haya una pared divisoria entre asador y horno, ya que podría afectar el calor o fuego de la parrilla.
+
+# tutorial armado casilla
+
+Te dejamos un vídeo con un tutorial simple sobre la instalación de la casilla (aún está en edición) pero es de gran ayuda.
+
+[youtube](Svhqpn5eLPA)
+
+# tv u otros equipos sobre la pared de la chimenea
+
+No recomendamos este tipo de instalaciones sobre la misma pared donde está instalado el equipo, ya que el conducto del tiraje puede llegar alcanzar 400° de temperatura y no sabemos qué consecuencias tiene ese calor sobre los equipos electrónicos. Su colocación queda a criterio y responsabilidad del usuario.
+
+# venta de vidrios
+
+Puedes ingresar al siguiente [link](https://www.tromen.com/copia-de-preguntas-frecuentes) y coloca la provincia o código postal de tu área, ahí podrás ver los puntos de venta cercanos, donde podrás consultar y solicitar *por pedido* el vidrio que requieres.
+
+# ventilacion hornos a gas
+
+todos los hornos Tromen deben contar con su respectiva ventilación y sombrerete
