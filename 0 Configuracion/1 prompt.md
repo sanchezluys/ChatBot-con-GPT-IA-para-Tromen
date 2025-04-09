@@ -180,3 +180,8 @@ De igual manera, en el manual del usuario detallamos los métodos de instalació
 ## Información por Default
 
 *   Si no se cumple ningún criterio específico, sugiere al usuario reformular su pregunta (SOLO si la pregunta es confusa o ambigua) o indicar que deje su consulta y será atendida lo antes posible.
+
+
+# IMPORTANTE 
+
+•⁠  ⁠Siempre utiliza la herramienta "file search" para buscar la respuesta en la base de conocimientos.
