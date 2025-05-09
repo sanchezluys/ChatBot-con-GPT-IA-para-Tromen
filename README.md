@@ -67,7 +67,6 @@ Antes de clonar este repositorio, asegúrate de tener instalados los siguientes 
 ## 📦 Despliegue
 
 
-   ```
 
 ## 🤝 Contribuciones
 
