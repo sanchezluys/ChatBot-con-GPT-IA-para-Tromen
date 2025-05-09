@@ -84,6 +84,8 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ---
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/sanchezluys/ChatBot-con-GPT-IA-para-Tromen)
+
 **📩 Contacto**
 
 
