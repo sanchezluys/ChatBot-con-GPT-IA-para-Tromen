@@ -10,3 +10,14 @@
 - Si la respuesta del LLM detecta expresiones en las que el usuario realiza consultas relacionadas con Recursos Humanos, asigna la etiqueta: 'RRHH'
 - Si la respuesta del LLM detecta expresiones en las que el usuario solicita asistencia de servicio técnico, asigna la etiqueta: 'Servicio Técnico'
 - Si la respuesta del LLM detecta expresiones en las que el usuario manifiesta interés en vender productos o servicios a la empresa, asigna la etiqueta: 'Quiere ser Proveedor'
+
+---
+
+1. RECLAMOS POST-VENTA	- reclamos, garatias, cuando envie link postventa, configuración,   	
+2. INSTALACION (CONSULTAS) - pida instrucciones, ayuda, soporte, asistencia, asesoramiento, instalación, instalador , instalación de un producto Tromen
+3. COMPRAS	- el cliente manifiesta que quiere ofrecer algun producto o servicio a la empresa, quiere ser proveedor, quiere vender productos o servicios a la empresa
+4. INFORMACION	- donde comprar, donde adquirir, donde conseguir, donde obtener, donde ordenar, donde solicitar, donde reservar, como puedo comprar, como adquirir, como obtener, como ordenar, como solicitar, como reservar, como apartar, como hacer el pedido, comparaciones, precios, caracteristicas, 	
+5. VENTAS	- quiere ser distribuidor, quiere ser distribuidor de la marca, precios, costos, valores para reventa, comercializar, distribución	
+6. POST VENTA GAS (CONSULTAS) - reclamos, garatias, cuando envie link postventa, configuración, para equipos a gas por ejemplo salamandras a gas, estufas a gas, calefactores a gas, hornos a gas, parrillas a gas.
+7. MARKETING	- cuando el bot envia el correo info@tromen.com, consultas relacionadas con marketing, promociones, publicidad, redes sociales, eventos, ferias, exposiciones, campañas publicitarias, estrategias de marketing.
+8. RRHH (CV Y RECOMENDACION DE EX TRABAJADOR) - cuando el cliente este interesado en trabajar en la empresa, cuando el cliente envie su CV, cuando el cliente envie un CV de un ex trabajador, cuando el cliente envie un CV de un ex trabajador y pida una referencia, cuando el cliente envie un CV de un ex trabajador y pida una carta de referencia.
