@@ -85,7 +85,7 @@
 - Limpieza integral al final/inicio de la temporada (especialmente con leña impura).
 - Verificar que el templador y sus perforaciones estén libres de hollín.
 
-### 5.2. Instalación
+### 5.2. Limpieza de Conductos
 
 - *Desmontaje:* Retirar sombrerete y templador.
 - *Métodos:* Recipiente en el piso, hisopo o cadena (desprender residuos). Usar deshollinador antes de la limpieza regular.
@@ -106,7 +106,7 @@
   - Leña de poda: Secar hasta el año siguiente (grietas internas).
   - Tipos recomendados: Livianas (eucalipto): Encendido rápido. Densas (quebracho): Mayor duración.
   - Mezcla ideal: Espinillo, eucalipto, madera fina o árboles frutales (bajo contenido de resina).
-- *Alternativos:* Pellets: No compatibles. Transformación a Gas: No avalada por fábrica (solo por gasista matriculado, siguiendo el manual).
+- *Alternativos:* Pellets: No compatibles. Transformación a Gas: No avalada por fábrica (solo por gasista matriculado, siguiendo el manual) *Tromen no lo avala y anula la garantía*
 - los equipos a leña si se pueden usar con carbon
 
 ## 7. Accesorios y Adaptaciones
@@ -177,7 +177,7 @@
 ### 9.3. Conversión
 
 - Gas envasado a natural: Cambiar el inyector y abrir el tornillo bypass (según manual).
-- Leña a gas: No avalada por fábrica (solo gasista matriculado).
+- Leña a gas: No avalada por fábrica (solo gasista matriculado). *Tromen no lo avala y anula la garantía*
 
 ## 10. Recursos Adicionales
 
