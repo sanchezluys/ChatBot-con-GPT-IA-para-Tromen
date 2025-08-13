@@ -63,6 +63,9 @@
 
 ## 4. Características y Tipos de Equipos
 
+- Tromen no vende hornos por separado, los calefactores con horno vienen pre fabricados.
+- El modelo Chulenguito Tromen no tiene brasero enlozado solo el emparrillado
+
 ### 4.1. Terminología
 
 - Estufa / Calefactor / Salamandra a Leña: Sin diferencia funcional (doble combustión, cámara de fuego cerrada).
@@ -106,8 +109,8 @@
   - Leña de poda: Secar hasta el año siguiente (grietas internas).
   - Tipos recomendados: Livianas (eucalipto): Encendido rápido. Densas (quebracho): Mayor duración.
   - Mezcla ideal: Espinillo, eucalipto, madera fina o árboles frutales (bajo contenido de resina).
+  - Los equipos a leña si se pueden usar con carbon
 - *Alternativos:* Pellets: No compatibles. Transformación a Gas: No avalada por fábrica (solo por gasista matriculado, siguiendo el manual) *Tromen no lo avala y anula la garantía*
-- los equipos a leña si se pueden usar con carbon
 
 ## 7. Accesorios y Adaptaciones
 
@@ -256,37 +259,35 @@
 ## 12. Respuestas Predeterminadas
 
 - *Puntos de Venta:*
-    Hola buen día, gracias por contactarnos. No hacemos venta directa, te pedimos ingresar al siguiente link en nuestra web <https://tromen.com/donde-comprar/> y colocar la provincia o código postal del área donde te encuentras. Allí podrás observar los puntos de venta cercanos a tu zona, donde podrás consultar y adquirir los productos de nuestra marca. No manejamos el stock de nuestros distribuidores por lo que recomendamos consultar previamente. Saludos cordiales.
+    No hacemos venta directa, te pedimos ingresar al siguiente link en nuestra web <https://tromen.com/donde-comprar/> y colocar la provincia o código postal del área donde te encuentras. Allí podrás observar los puntos de venta cercanos a tu zona, donde podrás consultar y adquirir los productos de nuestra marca. No manejamos el stock de nuestros distribuidores por lo que recomendamos consultar previamente.
 - *Venta de Vidrios:*
-    Hola buen día, gracias por contactarnos. No hacemos venta directa, te pedimos ingresar al siguiente link en nuestra web <www.tromen.com> y colocar la provincia o código postal del área donde te encuentras. Ahí podrás observar los puntos de venta cercanos a tu zona, donde podrás consultar y solicitar por pedido el vidrio que requiere. No manejamos el stock de nuestros distribuidores por lo que recomendamos consultar previamente. Saludos.
-- *Servicio Técnico (General):*
-    Hola buenos días, muchas gracias por el interés en los productos Tromen. Para acceder al servicio post venta, requerimos que cargues los datos del equipo acá: <https://tromen.com/garantia/> (número de serie, fecha de fabricación y checklist del equipo). Los mismos se encuentran en una etiqueta adosada al manual y en la contratapa del mismo o código QR. Después contáctate con <serviciotecnico@tromen.com> y adjuntar la siguiente información: Nombre completo, DNI, Dirección donde se encuentra instalado el equipo (más localidad y código postal), Teléfono de contacto, Foto de la factura de compra (si la tiene), Foto mostrando lo indicado, Foto del prf donde informa la fecha y hora de producción y el check list de calidad (si la Tiene). Expone su caso y por esa vía le darán respuesta a su requerimiento. Saludos cordiales.
+    No hacemos venta directa, te pedimos ingresar al siguiente link en nuestra web <www.tromen.com> y colocar la provincia o código postal del área donde te encuentras. Ahí podrás observar los puntos de venta cercanos a tu zona, donde podrás consultar y solicitar por pedido el vidrio que requiere. No manejamos el stock de nuestros distribuidores por lo que recomendamos consultar previamente.
+- *Servicio Técnico General (Leña):*
+    Para acceder al servicio post venta, requerimos que cargues los datos del equipo acá: <https://tromen.com/garantia/> (número de serie, fecha de fabricación y checklist del equipo). Los mismos se encuentran en una etiqueta adosada al manual y en la contratapa del mismo o código QR. Después contáctate con <serviciotecnico@tromen.com> y adjuntar la siguiente información: Nombre completo, DNI, Dirección donde se encuentra instalado el equipo (más localidad y código postal), Teléfono de contacto, Foto de la factura de compra (si la tiene), Foto mostrando lo indicado, Foto del prf donde informa la fecha y hora de producción y el check list de calidad (si la Tiene). Expone su caso y por esa vía le darán respuesta a su requerimiento.
 - *Servicio Técnico (Equipos a Gas):*
-    Hola buenos días, muchas gracias por el interés en los productos Tromen. Para acceder al servicio post venta, requerimos que cargues los datos del equipo acá: <https://tromen.com/garantia/> (número de serie, fecha de fabricación y checklist del equipo). Los mismos se encuentran en una etiqueta adosada al manual y en la contratapa del mismo o código QR. Después debe escribir a la dirección <consultas@tromen.com> y adjuntar fotos del equipo donde se observa la falla y se muestre el tipo de conexión a gas que tiene, foto de la factura (si la tiene), dirección, número de teléfono y DNI. Expone su caso y por esa vía le darán respuesta a su requerimiento en un lapso. Saludos cordiales.
-- *Demora en Respuesta:*
-    ¡Hola buenos días! Le pedimos disculpas por la demora, alguien de nuestro equipo se contactará con usted pronto. Mientras tanto si tiene cualquier otra consulta quedamos a su disposición por este medio. Saludos.
+    Para acceder al servicio post venta, requerimos que cargues los datos del equipo acá: <https://tromen.com/garantia/> (número de serie, fecha de fabricación y checklist del equipo). Los mismos se encuentran en una etiqueta adosada al manual y en la contratapa del mismo o código QR. Después debe escribir a la dirección <consultas@tromen.com> y adjuntar fotos del equipo donde se observa la falla y se muestre el tipo de conexión a gas que tiene, foto de la factura (si la tiene), dirección, número de teléfono y DNI. Expone su caso y por esa vía le darán respuesta a su requerimiento en un lapso
 - *Contacto Alternativo (Armando):*
-    Hola. Primeramente le damos las gracias por su interés en los productos de nuestra marca. Con respecto a su consulta, le pedimos escribir al whatsapp +54 9 11 2463-9552 y adjuntar la siguiente información: Nombre completo, DNI, Dirección donde se encuentra instalado el equipo (más localidad y código postal), Teléfono de contacto, Foto de la factura de compra (si la Tiene), Foto mostrando lo indicado, Foto del prf donde informa la fecha y hora de producción y el check list de calidad (si la Tiene). Expone su caso y por esa vía le darán respuesta a su requerimiento. Saludos cordiales.
+    Le pedimos escribir al whatsapp +54 9 11 2463-9552 y adjuntar la siguiente información: Nombre completo, DNI, Dirección donde se encuentra instalado el equipo (más localidad y código postal), Teléfono de contacto, Foto de la factura de compra (si la Tiene), Foto mostrando lo indicado, Foto del prf donde informa la fecha y hora de producción y el check list de calidad (si la Tiene). Expone su caso y por esa vía le darán respuesta a su requerimiento
 - *Imposibilidad de Agregar Dimmer a Modelos Antiguos:*
-    Hola, muchas gracias por el interés en los productos Tromen. Lamentablemente, no es posible agregar un dimmer a los modelos antiguos que no lo tienen incorporado. La instalación de un dimmer requiere modificaciones en el sistema eléctrico y los modelos antiguos no están diseñados para soportarlas de manera segura. Además, puede causar fallos o representar un riesgo de seguridad. Saludos cordiales.
+    Lamentablemente, no es posible agregar un dimmer a los modelos antiguos que no lo tienen incorporado. La instalación de un dimmer requiere modificaciones en el sistema eléctrico y los modelos antiguos no están diseñados para soportarlas de manera segura. Además, puede causar fallos o representar un riesgo de seguridad.
 - *Solicitud Publicitaria:*
-    Hola buenos días, muchas gracias por su interés en nuestra marca. Con respecto a su consulta, le solicitamos escribir a <info@tromen.com> y por esta vía daremos respuesta a su solicitud. Saludos cordiales.
+    Con respecto a su consulta, le solicitamos escribir a <info@tromen.com> y por esta vía daremos respuesta a su solicitud.
 - *Consultas RRHH:*
-    Hola, muchas gracias por su interés en nuestra marca. Con respecto a su consulta, necesitamos que nos escriba a la dirección <analistarrhh@parquepampa.com> por esa vía darán respuesta a tu solicitud. Saludos cordiales.
+    Con respecto a su consulta, necesitamos que nos escriba a la dirección <analistarrhh@parquepampa.com> por esa vía darán respuesta a tu solicitud.
 - *Ser Distribuidor:*
-    Hola buenos días, muchas gracias por el interés en los productos Tromen. Para ser distribuidor por favor visite el siguiente link: <https://tromen.com/quiero-ser-distribuidor/>. Rellena el formulario y nuestro equipo se pondrá en contacto con usted. Muchas gracias.
+    Para ser distribuidor por favor visite el siguiente link: <https://tromen.com/quiero-ser-distribuidor/>. Rellena el formulario y nuestro equipo se pondrá en contacto con usted.
 - *Contacto Marketing:*
-    Hola, muchas gracias por su interés en los productos de nuestra marca. Con respecto a su consulta, necesitamos que nos escriba a la dirección <fcaceres@tromen.com> por esa vía darán respuesta a tu solicitud. Saludos cordiales.
+    Con respecto a su consulta, necesitamos que nos escriba a la dirección <fcaceres@tromen.com> por esa vía darán respuesta a tu solicitud.
 - *Uso de Leña:*
-    Hola, muchas gracias por su interés en los productos de nuestra marca. Con respecto a su consulta, siempre recomendamos una mezcla entre espinillo, eucalipto y madera fina, siempre seca, o leña de árboles frutales que contenga bajo nivel de resina. Saludos cordiales.
+    Siempre recomendamos una mezcla entre espinillo, eucalipto y madera fina, siempre seca, o leña de árboles frutales que contenga bajo nivel de resina.
 - *Fire Week:*
-    Hola, gracias por su interés. Le invitamos a dar click al siguiente enlace de nuestra web. Ahí podrá observar los comercios adheridos a la promoción donde podrá consultar y adquirir los productos de nuestra marca: <https://tromen.com/descuentosencendidos/>  promociones tromen
+    Le invitamos a dar click al siguiente enlace de nuestra web. Ahí podrá observar los comercios adheridos a la promoción donde podrá consultar y adquirir los productos de nuestra marca: <https://tromen.com/descuentosencendidos/>  promociones tromen
 - *Parrilla Eléctrica sin Regulador:*
-    Hola, gracias por su interés. Este modelo de parrilla no trae regulador de temperatura (lo indicamos en nuestra web), ya que está configurado para cortes finos con cocciones de corto plazo entre 15 y 20 min. Cualquier modificación que pueda alterar el diseño original de la parrilla, anula automáticamente la garantía de Tromen sobre el producto. Saludos cordiales.
+    Este modelo de parrilla no trae regulador de temperatura (lo indicamos en nuestra web), ya que está configurado para cortes finos con cocciones de corto plazo entre 15 y 20 min. Cualquier modificación que pueda alterar el diseño original de la parrilla, anula automáticamente la garantía de Tromen sobre el producto.
 - *Garantía (Registro Web con Fallas):*
-    Hola, gracias por su interés. En estos momentos la página web presenta fallas técnicas y no da un acuse de registro exitoso, sin embargo la garantía queda registrada. De igual manera le mencionamos que los productos cuentan con 12 meses de garantía por fábrica según lo indica el manual del usuario. Saludos cordiales.
+    Si en estos momentos la página web presenta fallas técnicas y no da un acuse de registro exitoso, sin embargo la garantía queda registrada. De igual manera le mencionamos que los productos cuentan con 12 meses de garantía por fábrica según lo indica el manual del usuario.
 - *Equipos a la Intemperie:*
-    Hola, gracias por su interés. Recomendamos no colocar los equipos a la intemperie, si no bajo techo o por lo menos protegerlos con una funda, ya que los factores del clima y la humedad pueden ocasionar la aparición de óxido en la chapa. Le invitamos a visitar nuestra web <www.tromen.com>. Ahí podrá ver los modelos que fabricamos, su ficha técnica y precios de venta sugeridos en (BsAs). Desde ya quedamos atentos. Saludos cordiales.
+    Recomendamos no colocar los equipos a la intemperie, si no bajo techo o por lo menos protegerlos con una funda, ya que los factores del clima y la humedad pueden ocasionar la aparición de óxido en la chapa. Le invitamos a visitar nuestra web <www.tromen.com>. Ahí podrá ver los modelos que fabricamos, su ficha técnica y precios de venta sugeridos en (BsAs).
 
 ## 13. Asesoramiento Técnico para Instalación de Productos Tromen
 
@@ -299,10 +300,5 @@ Si necesita ayuda técnica, orientación para instalar o diseñar la instalació
 3. Incluya las medidas del espacio.  
 4. Si es posible, agregue un croquis o dibujo del área de instalación.  
 5. Indique un número de teléfono de contacto.  
-6. Exponga su caso detalladamente.  
-Un representante técnico se pondrá en contacto con usted para brindarle el asesoramiento que necesita.
-
-## Datos extras
-
-- Tromen no vende hornos por separado, los calefactores con horno vienen pre fabricados.
-- El modelo Chulenguito Tromen no tiene brasero enlozado solo el emparrillado
+6. Exponga su caso detalladamente.
+7. Un representante técnico se pondrá en contacto con usted para brindarle el asesoramiento que necesita.
