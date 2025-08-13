@@ -93,8 +93,11 @@
 
 ### 5.3. Vidrios y Parrillas
 
-- *Vidrios:* Usar tutoriales específicos (ej., [este video](https://www.youtube.com/watch?v=G-4-MygMIRQ)).
-- *Parrillas:* Limpiar inmediatamente después de usar (tibias). En casos difíciles, desmontar, remojar en agua caliente con desengrasante, cepillar, enjuagar y secar verticalmente.
+- Vidrios: Usar tutoriales específicos (ej., [este video](https://www.youtube.com/watch?v=G-4-MygMIRQ)).
+- Parrillas:
+  - Limpiar inmediatamente después de usar (tibias)
+  - En casos difíciles, desmontar, remojar en agua caliente con desengrasante, cepillar, enjuagar y secar verticalmente.
+  - Sabemos que luego de disfrutar de una comida a la parrilla hay que proceder dejarla limpia para la próxima, lo que hay que evitar es que se cristalice la grasa en los módulos de parrilla. Si esto sucede, retirar y colocar los módulos de parrilla sumergidos en agua hirviendo y detergente desengrasante para ablandar la grasa adherida. Utilizar un cepillo de plástico semi-duro y algún accesorio flexible plano o en “L“ que se pueda introducir en el espacio entre las “V”. Luego enjuagar y dejar secar colocando los tres módulos en forma vertical para que escurran y queden secos y volver armarlos.
 
 ## 6. Combustibles
 
@@ -114,7 +117,7 @@
 
 ### 7.2. Derivadores de Calor
 
-- Contribuyen 10-15% del calor total.
+- Contribuyen 10-15% del calor total, Este calor va depender únicamente de la cantidad de leña (fuego) que se esté generando en el calefactor, Una opción es usar algún forzado para extraer mayor cantidad de calor del equipo, hacia otros ambientes
 - Tramos horizontales largos pueden enfriar el aire (retirar la tapa de salida).
 - Tromen no comercializa forzadores adicionales.
 
@@ -133,13 +136,20 @@
 ### 7.6. Manija / Cruz del Duomo
 
 - Diseño modificado (sin manija, con agarres). Manual puede mostrar el modelo anterior.
+- Cambio de Manija (Cruz del Duomo):
+  - Se realizó una modificación a la estaca o cruz del Duomo, ya no lleva la manija, ya que su diseño posee unos agarres propios.
+  - Este cambio es con la finalidad de poder girar la cruz.
+  - Podrías voltear la cruz parte superior en la parte inferior y viceversa. El manual del equipo, por error muestra aún el modelo de cruz anterior, el cual ya no se fabrica
 
 ## 8. Equipos a Gas
 
 ### 8.1. Características
 
 - Diseño y uso: *Comercial* (5200 kcal). Gas de red o envasado (cambio de inyectores).
-- Homologación y ventilación: Homologación I.G.A. (N° 2427). Ventilación adecuada (sombrerete).
+- Homologación y ventilación:
+  - Ventilación adecuada (sombrerete).
+  - Nuestra empresa está autorizada para la fabricación de parrillas y hornos a gas bajo la normativa de “artefacto solo apto uso comercial” indicada en etiqueta del manual, equipo y embalaje. Se pueden encontrar, según la fecha de fabricación, certificación del Instituto del Gas Argentino (I.G.A.) Matrícula de fabricación N° 2427 o a partir del 2/5/2023 la de LENOR OCP. N° L006663-001
+  - Debe Consultar con el gasista matriculado sobre la instalación de este tipo de artefacto no homologados o lo que solicita la empresa proveedora de gas antes de pedir la solicitud de inspección la instalación de gas.
 
 ### 8.2. Adaptación
 
@@ -159,8 +169,10 @@
 ### 9.2. Productos a Gas
 
 - *Parrillas Eléctricas (E360 y E480):* Cortes finos/cocciones cortas (15–20 minutos). Modificaciones anulan la garantía.
-- *TV sobre Chimenea:* No recomendado (conducto alcanza 400 °C).
 - *Medidas/Consumo:* Angus Chica: 3,72 kW (3200 kcal/h), garrafa de 10 kg. Tango 780: 69x78,8x51 cm (aprox.).
+- *TV sobre Pared de Chimenea:*
+  - No recomendamos este tipo de instalaciones sobre la misma pared donde está instalado el equipo, ya que el conducto del tiraje puede llegar alcanzar 400° de temperatura y no sabemos qué consecuencias tiene ese calor sobre los equipos electrónicos.
+  - Queda a criterio y responsabilidad del usuario
 
 ### 9.3. Conversión
 
@@ -223,7 +235,7 @@
 
 - *MIL CINCO SA* (MIL CINCO)
   - Dirección: Ayolas 246 entre Palma y Presidente Franco, Asunción
-  - Teléfono: 5,95987E+11 (Verificar formato)
+  - Teléfono:
   - Sitio web: [https://milcinco.com.py/es#](https://milcinco.com.py/es#)
 
 ### Uruguay
@@ -255,22 +267,14 @@
     ¡Hola buenos días! Le pedimos disculpas por la demora, alguien de nuestro equipo se contactará con usted pronto. Mientras tanto si tiene cualquier otra consulta quedamos a su disposición por este medio. Saludos.
 - *Contacto Alternativo (Armando):*
     Hola. Primeramente le damos las gracias por su interés en los productos de nuestra marca. Con respecto a su consulta, le pedimos escribir al whatsapp +54 9 11 2463-9552 y adjuntar la siguiente información: Nombre completo, DNI, Dirección donde se encuentra instalado el equipo (más localidad y código postal), Teléfono de contacto, Foto de la factura de compra (si la Tiene), Foto mostrando lo indicado, Foto del prf donde informa la fecha y hora de producción y el check list de calidad (si la Tiene). Expone su caso y por esa vía le darán respuesta a su requerimiento. Saludos cordiales.
-- *Cambio de Manija (Cruz del Duomo):*
-    Hola, gracias por escribirnos. Se realizó una modificación a la estaca o cruz del Duomo, ya no lleva la manija, ya que su diseño posee unos agarres propios. Este cambio es con la finalidad de poder girar la cruz. Podrías voltear la cruz parte superior en la parte inferior y viceversa. El manual del equipo, por error muestra aún el modelo de cruz anterior, el cual ya no se fabrica. Saludos cordiales.
 - *Imposibilidad de Agregar Dimmer a Modelos Antiguos:*
     Hola, muchas gracias por el interés en los productos Tromen. Lamentablemente, no es posible agregar un dimmer a los modelos antiguos que no lo tienen incorporado. La instalación de un dimmer requiere modificaciones en el sistema eléctrico y los modelos antiguos no están diseñados para soportarlas de manera segura. Además, puede causar fallos o representar un riesgo de seguridad. Saludos cordiales.
-- *Curado de Plancha:*
-    Coloca la plancha a calentar sobre la hornalla de la cocina, y le agregas un poco de aceite. Con ayuda de una servilleta lo esparcís en toda la superficie. Luego de esto lo dejas calentar por espacio de 1 o 2 minutos y repetís la operación unas 3 o 4 veces, agregándole un poco más de aceite y cubriendo la superficie de la plancha con la ayuda de una servilleta (esto va hacer que se vaya formando una película). Luego la volteas y realizas el mismo proceso para curar la parte posterior de la plancheta.
 - *Solicitud Publicitaria:*
     Hola buenos días, muchas gracias por su interés en nuestra marca. Con respecto a su consulta, le solicitamos escribir a <info@tromen.com> y por esta vía daremos respuesta a su solicitud. Saludos cordiales.
 - *Consultas RRHH:*
     Hola, muchas gracias por su interés en nuestra marca. Con respecto a su consulta, necesitamos que nos escriba a la dirección <analistarrhh@parquepampa.com> por esa vía darán respuesta a tu solicitud. Saludos cordiales.
-- *Equipos a Gas (Homologación):*
-    Nuestra empresa está autorizada para la fabricación de parrillas y hornos a gas bajo la normativa de “artefacto solo apto uso comercial” indicada en etiqueta del manual, equipo y embalaje. Se pueden encontrar, según la fecha de fabricación, certificación del Instituto del Gas Argentino (I.G.A.) Matrícula de fabricación N° 2427 o a partir del 2/5/2023 la de LENOR OCP. N° L006663-001. Debe Consultar con el gasista matriculado sobre la instalación de este tipo de artefacto no homologados o lo que solicita la empresa proveedora de gas antes de pedir la solicitud de inspección la instalación de gas.
 - *Ser Distribuidor:*
-    Hola buenos días, muchas gracias por el interés en los productos Tromen. Para ser distribuidor por favor visite el siguiente link: https://tromen.com/quiero-ser-distribuidor/. Rellena el formulario y nuestro equipo se pondrá en contacto con usted. Muchas gracias.
-- *Limpieza de Parrilla:*
-    Sabemos que luego de disfrutar de una comida a la parrilla hay que proceder dejarla limpia para la próxima, lo que hay que evitar es que se cristalice la grasa en los módulos de parrilla. Si esto sucede, retirar y colocar los módulos de parrilla sumergidos en agua hirviendo y detergente desengrasante para ablandar la grasa adherida. Utilizar un cepillo de plástico semi-duro y algún accesorio flexible plano o en “L“ que se pueda introducir en el espacio entre las “V”. Luego enjuagar y dejar secar colocando los tres módulos en forma vertical para que escurran y queden secos y volver armarlos.
+    Hola buenos días, muchas gracias por el interés en los productos Tromen. Para ser distribuidor por favor visite el siguiente link: <https://tromen.com/quiero-ser-distribuidor/>. Rellena el formulario y nuestro equipo se pondrá en contacto con usted. Muchas gracias.
 - *Contacto Marketing:*
     Hola, muchas gracias por su interés en los productos de nuestra marca. Con respecto a su consulta, necesitamos que nos escriba a la dirección <fcaceres@tromen.com> por esa vía darán respuesta a tu solicitud. Saludos cordiales.
 - *Uso de Leña:*
@@ -279,14 +283,10 @@
     Hola, gracias por su interés. Le invitamos a dar click al siguiente enlace de nuestra web. Ahí podrá observar los comercios adheridos a la promoción donde podrá consultar y adquirir los productos de nuestra marca: <https://tromen.com/descuentosencendidos/>  promociones tromen
 - *Parrilla Eléctrica sin Regulador:*
     Hola, gracias por su interés. Este modelo de parrilla no trae regulador de temperatura (lo indicamos en nuestra web), ya que está configurado para cortes finos con cocciones de corto plazo entre 15 y 20 min. Cualquier modificación que pueda alterar el diseño original de la parrilla, anula automáticamente la garantía de Tromen sobre el producto. Saludos cordiales.
-- *TV sobre Pared de Chimenea:*
-    Hola, gracias por su interés. No recomendamos este tipo de instalaciones sobre la misma pared donde está instalado el equipo, ya que el conducto del tiraje puede llegar alcanzar 400° de temperatura y no sabemos qué consecuencias tiene ese calor sobre los equipos electrónicos. Queda a criterio y responsabilidad del usuario. Saludos cordiales.
 - *Garantía (Registro Web con Fallas):*
     Hola, gracias por su interés. En estos momentos la página web presenta fallas técnicas y no da un acuse de registro exitoso, sin embargo la garantía queda registrada. De igual manera le mencionamos que los productos cuentan con 12 meses de garantía por fábrica según lo indica el manual del usuario. Saludos cordiales.
 - *Equipos a la Intemperie:*
     Hola, gracias por su interés. Recomendamos no colocar los equipos a la intemperie, si no bajo techo o por lo menos protegerlos con una funda, ya que los factores del clima y la humedad pueden ocasionar la aparición de óxido en la chapa. Le invitamos a visitar nuestra web <www.tromen.com>. Ahí podrá ver los modelos que fabricamos, su ficha técnica y precios de venta sugeridos en (BsAs). Desde ya quedamos atentos. Saludos cordiales.
-- *Derivadores de Calor:*
-    Hola, gracias por escribirnos. Los derivadores de calor generan entre un 10 a 15 % del calor total de equipo. Este calor va depender únicamente de la cantidad de leña (fuego) que se esté generando en el calefactor. Una opción es usar algún forzado para extraer mayor cantidad de calor del equipo, hacia otros ambientes
 
 ## 13. Asesoramiento Técnico para Instalación de Productos Tromen
 
@@ -305,4 +305,4 @@ Un representante técnico se pondrá en contacto con usted para brindarle el ase
 ## Datos extras
 
 - Tromen no vende hornos por separado, los calefactores con horno vienen pre fabricados.
-- El modelo Chulenguito Tromen no tiene brasero enlozado solo el emparrillado.
+- El modelo Chulenguito Tromen no tiene brasero enlozado solo el emparrillado
